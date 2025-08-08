@@ -1,2 +1,1 @@
-Colab test text                                                                                 
-words for test                                            
+Colab test text                                                                                                                             
